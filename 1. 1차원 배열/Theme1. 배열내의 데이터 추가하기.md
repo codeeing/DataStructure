@@ -4,7 +4,7 @@ int num[10] = {1, 2, 3, 4, 5, 6, 7};
 int count = 7;
 ```
 
-<image src="https://github.com/codeeing/DataStructure/assets/135220759/a19bbfe0-ba12-46cb-8c10-c4678ab185e4" width="500"><br>
+<image src="https://github.com/codeeing/DataStructure/assets/135220759/a19bbfe0-ba12-46cb-8c10-c4678ab185e4" width="500"><br><br>
  위 그림과 같이 사이즈가 10인 배열이 있다. <br>배열 요소의 개수인 10개보다 초기화 데이터가 부족하므로, <br>남은 방은 0으로 초기화된 상태이다.
 
  > 만약 4번 방에 숫자 8을 삽입하려고 한다면, 어떻게 해야할까?
